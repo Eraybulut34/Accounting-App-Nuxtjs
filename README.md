@@ -1,4 +1,4 @@
-# mynuxt
+# accounting-app-nuxt
 
 ## Build Setup
 
